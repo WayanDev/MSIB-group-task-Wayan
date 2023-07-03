@@ -28,29 +28,29 @@ Fitur yang ada pada Sistem E-Voting Kepala Desa:
 
 ## Langkah-Langkah
 
-1. Download Source Code dari repo Github (https://github.com/abduromanov2020/MSIB-group-task.git) dalam bentuk Zip.
-2. Extract file zip (source code) ke dalam direktori htdocs pada XAMPP, misal htdocs/Pilkades. Tanpa di htdocs juga bisa.
-3. Melalui terminal, cd ke direktori Pilkades.
-4. (Sesuai petunjuk installasi) Pada terminal, berikan perintah `composer install`. Ini yang perlu koneksi internet.
-5. Composer akan menginstall dependency paket dari source code tersebut hingga selesai.
-6. Jalankan perintah php artisan, untuk menguji apakah perintah artisan Laravel bekerja.
-7. Buat database baru (kosong) pada mysql (via phpmyadmin) dengan nama pilkades atau bebas. Import file laravel.sql(ada di Folder Desain Database) ke database yang sudah dibuat tadi
+1. Download Source Code dari repo Github ([https://github.com/abduromanov2020/MSIB-group-task.git](https://github.com/WayanDev/MSIB-group-task-Wayan.git)) dalam bentuk Zip.
+2. Extract file zip (source code) ke dalam direktori htdocs pada XAMPP, misal htdocs/Pilkades. Tanpa di htdocs pun bisa, bisa juga di folder D.
+3. Melalui terminal, arahkan ke folder project cth: cd C:\xampp\htdocs\Pilkades.
+4. (Sesuai petunjuk installasi) Pada terminal, berikan perintah ```composer install```. Pastikan PC/Laptop terkoneksi internet.
+5. Pastikan juga Anda sudah mengintall composer
+6. Composer akan menginstall dependency paket dari source code tersebut hingga selesai.
+7. Buat database baru pada mysql (via phpmyadmin) dengan nama laravel atau bebas. Import file laravel.sql(ada di Folder Desain Database) ke database yang sudah dibuat tadi.
 8. Duplikat file .env.example, lalu rename menjadi .env.
-9. Kembali ke terminal, `php artisan key:generate`.
+9. Kembali ke terminal, ```php artisan key:generate```.
 10. Setting koneksi database di file .env (DB_DATABASE, DB_USERNAME, DB_PASSWORD).
  ```
      DB_CONNECTION=mysql 
      DB_HOST=127.0.0.1 
      DB_PORT=3306 
-     DB_DATABASE=pilkades 
+     DB_DATABASE=laravel 
      DB_USERNAME=root 
      DB_PASSWORD= 
  ```
-11. Setelah selesai, Jalankan perintah `php artisan serve` maka dapat diakses dengan (http://127.0.0.1:8000)
+11. Setelah selesai, Jalankan perintah ```php artisan serve``` maka dapat diakses dengan (http://127.0.0.1:8000)
 
 ## Persyaratan
 
--   XAMPP : PHP >= minimal 7.3
+-   XAMPP : PHP >= minimal 8.1
 -   Google Chrome atau web browser lainnya
 -   Composer telah ter-install, cek dengan perintah composer -V melalui terminal.
 -   Koneksi Internet
@@ -59,9 +59,9 @@ Fitur yang ada pada Sistem E-Voting Kepala Desa:
 
 Login admin
 
-> Username : Admin
+> Username : ```admin```
 > 
-> Password : 12345678
+> Password : ```12345678```
 
 ## Tampilan Login
 ![Screenshot 2023-06-18 000949](https://github.com/abduromanov2020/MSIB-group-task/assets/113874200/9dcacbe2-0097-4970-a0a6-f51c7820e66f)
