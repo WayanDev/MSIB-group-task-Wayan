@@ -28,7 +28,7 @@ Fitur yang ada pada Sistem E-Voting Kepala Desa:
 
 ## Langkah-Langkah
 
-1. Download Source Code dari repo Github ([https://github.com/abduromanov2020/MSIB-group-task.git](https://github.com/WayanDev/MSIB-group-task-Wayan.git)) dalam bentuk Zip.
+1. Download Source Code dari repo Github (https://github.com/WayanDev/MSIB-group-task-Wayan.git) dalam bentuk Zip.
 2. Extract file zip (source code) ke dalam direktori htdocs pada XAMPP, misal htdocs/Pilkades. Tanpa di htdocs pun bisa, bisa juga di folder D.
 3. Melalui terminal, arahkan ke folder project cth: cd C:\xampp\htdocs\Pilkades.
 4. (Sesuai petunjuk installasi) Pada terminal, berikan perintah ```composer install```. Pastikan PC/Laptop terkoneksi internet.
@@ -59,9 +59,9 @@ Fitur yang ada pada Sistem E-Voting Kepala Desa:
 
 Login admin
 
-> Username : ```admin```
+> Username : admin
 > 
-> Password : ```12345678```
+> Password : 12345678
 
 ## Tampilan Login
 ![Screenshot 2023-06-18 000949](https://github.com/abduromanov2020/MSIB-group-task/assets/113874200/9dcacbe2-0097-4970-a0a6-f51c7820e66f)
