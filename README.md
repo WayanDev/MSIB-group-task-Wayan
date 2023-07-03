@@ -84,7 +84,8 @@ Login admin
 ![Screenshot 2023-06-18 001828](https://github.com/abduromanov2020/MSIB-group-task/assets/113874200/cd84920b-b14e-4f38-ae3c-d19ba1974c3b)
 ![Screenshot 2023-06-18 001813](https://github.com/abduromanov2020/MSIB-group-task/assets/113874200/8cf07304-db58-4756-a8c0-d02356919307)
 
-
+## Tampilan Frontend dengan Consume API
+![Screenshot 2023-07-03 155714](https://github.com/WayanDev/MSIB-group-task-Wayan/assets/113874200/d516830a-ab0a-468f-93ae-677140163de7)
 
 ## Kredit
 -   Sistem mulai dibuat pada 01/06/2023
