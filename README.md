@@ -31,12 +31,12 @@ Fitur yang ada pada Sistem E-Voting Kepala Desa:
 1. Download Source Code dari repo Github (https://github.com/WayanDev/MSIB-group-task-Wayan.git) dalam bentuk Zip.
 2. Extract file zip (source code) ke dalam direktori htdocs pada XAMPP, misal htdocs/Pilkades. Tanpa di htdocs pun bisa, bisa juga di folder D.
 3. Melalui terminal, arahkan ke folder project cth: cd C:\xampp\htdocs\Pilkades.
-4. (Sesuai petunjuk installasi) Pada terminal, berikan perintah ```composer install```. Pastikan PC/Laptop terkoneksi internet.
+4. (Sesuai petunjuk installasi) Pada terminal, jalankan perintah ```composer install```. Pastikan PC/Laptop terkoneksi internet.
 5. Pastikan juga Anda sudah mengintall composer
 6. Composer akan menginstall dependency paket dari source code tersebut hingga selesai.
 7. Buat database baru pada mysql (via phpmyadmin) dengan nama laravel atau bebas. Import file laravel.sql(ada di Folder Desain Database) ke database yang sudah dibuat tadi.
 8. Duplikat file .env.example, lalu rename menjadi .env.
-9. Kembali ke terminal, ```php artisan key:generate```.
+9. Kembali ke terminal, jalankan perintah ```php artisan key:generate```.
 10. Setting koneksi database di file .env (DB_DATABASE, DB_USERNAME, DB_PASSWORD).
  ```
      DB_CONNECTION=mysql 
@@ -63,16 +63,22 @@ Login admin
 > 
 > Password : 12345678
 
-## Tampilan Login
-![Screenshot 2023-06-18 000949](https://github.com/abduromanov2020/MSIB-group-task/assets/113874200/9dcacbe2-0097-4970-a0a6-f51c7820e66f)
+## Tampilan Home 
+![Screenshot 2023-06-25 232402](https://github.com/WayanDev/MSIB-group-task-Wayan/assets/113874200/2b557741-f937-4db8-9a2f-21a2ccc7b9a2)
+![Screenshot 2023-06-25 233754](https://github.com/WayanDev/MSIB-group-task-Wayan/assets/113874200/9b2cf203-d66c-4f13-90c1-6daa9f641cab)
 
+## Tampilan Login
+![Screenshot 2023-06-25 234617](https://github.com/WayanDev/MSIB-group-task-Wayan/assets/113874200/543223de-4d34-4389-9f42-774151eca299)
 
 ## Tampilan Admin
-![Screenshot 2023-06-18 001507](https://github.com/abduromanov2020/MSIB-group-task/assets/113874200/3f5db803-2483-49f9-ab37-34cbceae0acd)
-
+![Screenshot 2023-07-03 154955](https://github.com/WayanDev/MSIB-group-task-Wayan/assets/113874200/ca701798-f562-4302-b83e-8b11d69f1cd1)
+![Screenshot 2023-07-03 155020](https://github.com/WayanDev/MSIB-group-task-Wayan/assets/113874200/cfd1745d-afa3-4085-9049-01c19f1b6be8)
 
 ## Tampilan Petugas
-![Screenshot 2023-06-18 001549](https://github.com/abduromanov2020/MSIB-group-task/assets/113874200/0e94b9d1-9c99-4b4d-86ce-350c192b80dd)
+![Screenshot 2023-07-03 155219](https://github.com/WayanDev/MSIB-group-task-Wayan/assets/113874200/e723acda-cfe4-4698-899f-ed41d12d1c94)
+![Screenshot 2023-07-03 155241](https://github.com/WayanDev/MSIB-group-task-Wayan/assets/113874200/8f8d72e8-621e-4510-87be-f75b4dbd1f7f)
+![Screenshot 2023-07-03 155302](https://github.com/WayanDev/MSIB-group-task-Wayan/assets/113874200/4ac11b96-f0c9-4246-a27c-8bf6cf13fdee)
+
 
 ## Tampilan Pemilih
 ![Screenshot 2023-06-18 001828](https://github.com/abduromanov2020/MSIB-group-task/assets/113874200/cd84920b-b14e-4f38-ae3c-d19ba1974c3b)
