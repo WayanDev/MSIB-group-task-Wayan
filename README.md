@@ -64,11 +64,11 @@ Login admin
 > Password : 12345678
 
 ## Tampilan Home 
-![Screenshot 2023-06-25 232402](https://github.com/WayanDev/MSIB-group-task-Wayan/assets/113874200/2b557741-f937-4db8-9a2f-21a2ccc7b9a2)
-![Screenshot 2023-06-25 233754](https://github.com/WayanDev/MSIB-group-task-Wayan/assets/113874200/9b2cf203-d66c-4f13-90c1-6daa9f641cab)
+![Screenshot 2023-06-25 232402](https://github.com/WayanDev/MSIB-group-task-Wayan/assets/113874200/5cc2b29e-3a78-4ccc-8fff-08e88f33da83)
+![Screenshot 2023-06-25 233754](https://github.com/WayanDev/MSIB-group-task-Wayan/assets/113874200/4af1ac72-776b-4a45-a14b-8cb5e21a06b7)
 
 ## Tampilan Login
-![Screenshot 2023-06-25 234617](https://github.com/WayanDev/MSIB-group-task-Wayan/assets/113874200/543223de-4d34-4389-9f42-774151eca299)
+![Screenshot 2023-06-25 234617](https://github.com/WayanDev/MSIB-group-task-Wayan/assets/113874200/b835028b-7388-4450-8f44-d6fd3af85883)
 
 ## Tampilan Admin
 ![Screenshot 2023-07-03 154955](https://github.com/WayanDev/MSIB-group-task-Wayan/assets/113874200/ca701798-f562-4302-b83e-8b11d69f1cd1)
