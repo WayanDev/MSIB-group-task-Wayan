@@ -71,21 +71,26 @@ Login admin
 ![Screenshot 2023-06-25 234617](https://github.com/WayanDev/MSIB-group-task-Wayan/assets/113874200/b835028b-7388-4450-8f44-d6fd3af85883)
 
 ## Tampilan Admin
-![Screenshot 2023-07-03 154955](https://github.com/WayanDev/MSIB-group-task-Wayan/assets/113874200/ca701798-f562-4302-b83e-8b11d69f1cd1)
-![Screenshot 2023-07-03 155020](https://github.com/WayanDev/MSIB-group-task-Wayan/assets/113874200/cfd1745d-afa3-4085-9049-01c19f1b6be8)
+![Screenshot 2023-07-03 154955](https://github.com/WayanDev/MSIB-group-task-Wayan/assets/113874200/ac8361a6-63c7-4033-80f6-49a0e4b708ea)
+![Screenshot 2023-07-03 155020](https://github.com/WayanDev/MSIB-group-task-Wayan/assets/113874200/849a5b97-6089-4bf1-a962-f278e2dd8a30)
+![Screenshot 2023-06-26 001236](https://github.com/WayanDev/MSIB-group-task-Wayan/assets/113874200/a3fa7c9a-8e30-408b-a082-9f0d67951caa)
 
 ## Tampilan Petugas
-![Screenshot 2023-07-03 155219](https://github.com/WayanDev/MSIB-group-task-Wayan/assets/113874200/e723acda-cfe4-4698-899f-ed41d12d1c94)
-![Screenshot 2023-07-03 155241](https://github.com/WayanDev/MSIB-group-task-Wayan/assets/113874200/8f8d72e8-621e-4510-87be-f75b4dbd1f7f)
-![Screenshot 2023-07-03 155302](https://github.com/WayanDev/MSIB-group-task-Wayan/assets/113874200/4ac11b96-f0c9-4246-a27c-8bf6cf13fdee)
-
+![Screenshot 2023-07-03 155219](https://github.com/WayanDev/MSIB-group-task-Wayan/assets/113874200/836eed75-6750-4064-85ec-45b1b4781fba)
+![Screenshot 2023-07-03 155241](https://github.com/WayanDev/MSIB-group-task-Wayan/assets/113874200/699e5768-3a8f-450e-86c0-21ad78cb552f)
+![Screenshot 2023-07-03 155302](https://github.com/WayanDev/MSIB-group-task-Wayan/assets/113874200/c7baecab-5c3a-4474-9445-4bee3d77ebbe)
+![Screenshot 2023-06-18 215000](https://github.com/WayanDev/MSIB-group-task-Wayan/assets/113874200/36a6739e-4afe-4c88-bbd8-8da3fd73252d)
 
 ## Tampilan Pemilih
-![Screenshot 2023-06-18 001828](https://github.com/abduromanov2020/MSIB-group-task/assets/113874200/cd84920b-b14e-4f38-ae3c-d19ba1974c3b)
-![Screenshot 2023-06-18 001813](https://github.com/abduromanov2020/MSIB-group-task/assets/113874200/8cf07304-db58-4756-a8c0-d02356919307)
+![Screenshot 2023-06-26 001738](https://github.com/WayanDev/MSIB-group-task-Wayan/assets/113874200/6326b94c-4a3a-4344-971d-ec5ec26c1e51)
+![Screenshot 2023-06-26 001754](https://github.com/WayanDev/MSIB-group-task-Wayan/assets/113874200/d56010f3-e32c-45ba-aa04-0efab8da0a7a)
+![Screenshot 2023-06-26 001830](https://github.com/WayanDev/MSIB-group-task-Wayan/assets/113874200/8deef5fc-48e6-4a52-b8bd-7edf870c1f35)
+![Screenshot 2023-06-26 001845](https://github.com/WayanDev/MSIB-group-task-Wayan/assets/113874200/d963bd5f-82e1-4785-9de9-3090b4784de1)
+
 
 ## Tampilan Frontend dengan Consume API
-![Screenshot 2023-07-03 155714](https://github.com/WayanDev/MSIB-group-task-Wayan/assets/113874200/d516830a-ab0a-468f-93ae-677140163de7)
+![Screenshot 2023-07-03 155714](https://github.com/WayanDev/MSIB-group-task-Wayan/assets/113874200/cb561a03-87bd-45bd-81f6-508b8bdde7ff)
+
 
 ## Kredit
 -   Sistem mulai dibuat pada 01/06/2023
